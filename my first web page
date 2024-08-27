@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body style="background-color:#00712D">
+       
+    <!-- Navigation Menu -->
+    <nav>
+        <ul>
+            <li><a href="#hero">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#portfolio">Portfolio</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+    
+    <h1 align="center">PORTFOLIO</h1>
+    
+ <span style="color:#FF9100"><h3 align="center">NWACHUKWU CLINTON NNAMDI.(FortiRoq)</h3></span>
+ <h5 align="center"><u>[Early Life, Educational Background, Travels, Works and Experience, Net Worth, Companies and Social Life]</u></h5>
+ <hr
+
+    <!-- Hero Section -->
+    <section id="hero">
+        <h4>HERE IS MY PORTFOLIO </h4>
+        <p>This is a brief introduction about myself and my work.</p>
+        <button>Learn More</button>
+    </section>
+
+    <!-- About Section -->
+    <section id="about">
+        <h2>About Me</h2>
+<p><h6 align="center">Nwachukwu Clinton Nnamdi (born 27 November 1996), who is known professionally as FortiRoq,is a Nigerian Blockchain Developer. Born in the Parakou suburb of Benin Republic, FortiRoq is a voice in the emerging CTNG movement. His DeFi Academy is a blend of Web3, DeFi, Web3 Jobs, NFTs, Metaverse,DeFi Protocols and Narratives, GameFi and Marketing/Influencing. He began trading the crypto market at the age of 24 and released a collaborative partnership with the Kashflow, FortiRoq Inc. and a couple of his Indiano American friends. In 2021, FortiRoq signed a Marketing specialist, Community manager, Project Advisory deal with MiFunder Prop Firm and other Crypto Projects. He rose to the limelight after releasing FortiRoq DeFi Academy at Tanzania, Cameroon and Ghana. The lead from his affiliations in Nigeria CTNG, which also spawned the collaborations Tanzanian Crypto Community and Other Countries.</h6></p>
+        <img src="profile-picture.jpg" alt="Profile Picture">
+    </section>
+
+    <!-- Portfolio Section -->
+    <section id="portfolio">
+        <h2>My Work</h2>
+        <ul>
+            <li>
+                <img src="project1.jpg" alt="Project 1">
+                <h3>Project 1</h3>
+                <p>This is a brief description about Project 1.</p>
+            </li>
+            <li>
+                <img src="project2.jpg" alt="Project 2">
+                <h3>Project 2</h3>
+                <p>This is a brief description about Project 2.</p>
+            </li>
+            <li>
+                <img src="https://images.unsplash.com/photo-1720048171419-b515a96a73b8?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Project 3">
+                <h3>Project 3</h3>
+                <p>This is a brief description about Project 3.</p>
+            </li>
+        </ul>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact">
+        <h2>Get in Touch</h2>
+        <p>Feel free to contact me for any inquiries or collaborations.</p>
+        <ul>
+            <li><a href="mailto:your-email@example.com">your-email@example.com</a></li>
+            <li><a href="https://www.linkedin.com/in/your-linkedin-profile/">LinkedIn</a></li>
+            <li><a href="https://github.com/your-github-profile">GitHub</a></li>
+        </ul>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>
